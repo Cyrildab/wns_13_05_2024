@@ -1,9 +1,11 @@
 To install deps :
+
 ```sh
 npm i
 ```
 
 To start dev server :
+
 ```sh
 npm run dev
 ```
